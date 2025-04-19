@@ -18,7 +18,7 @@ I focus on creating fast, accessible, and responsive digital experiences — usi
 `Node.js` • `Express.js` • `Prisma ORM` • `PostgreSQL` • `GraphQL` • `PHP (OOP)` • `WordPress (Enterprise)`
 
 **Tools & Practices**  
-`Git` • `CI/CD` • `Docker` • `Component-Based Architecture` • `Agile Workflows` • `Clean Code`
+`Jest` • `Vitest` • `Git` • `CI/CD` • `Docker` • `Component-Based Architecture` • `Agile Workflows` • `Clean Code`
 
 ---
 
